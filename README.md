@@ -61,6 +61,9 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to contact me:
+
 Email: luquorusmail@gmail.com
+
 GitHub: luquorus
+
 Happy coding with Arduino!
