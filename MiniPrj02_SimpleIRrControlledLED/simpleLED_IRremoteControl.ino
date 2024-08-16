@@ -1,7 +1,11 @@
+/*
+ * COMPONENTS: LED, wires, Adruino UNO (R3), IRremote sensor, IRremote control                  
+ 
+ */
 #include <IRremote.h>
 
 #define IR_RECEIVE_PIN 3
-#define BUTTON_CODE 0x45 // HEX code for button 45 (0x2D in HEX)
+#define BUTTON_CODE 0x45 //You can change by your HEX button's code
 const int ledPin = 2;
 
 bool ledState = false;
