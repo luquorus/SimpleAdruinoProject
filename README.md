@@ -21,7 +21,7 @@ Here is a list of projects included in this repository:
 
 1. **Simple Smart Trash** 
 2. **IRremote Controlled LED**
-3. 
+3. **DIY Piano with keypad and buzzer**
 
 (Feel free to add more projects as you continue your learning journey!)
 
